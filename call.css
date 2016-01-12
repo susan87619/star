@@ -1,0 +1,10 @@
+.star{font-size: 28px; color: #cccccc; text-decoration: none;}
+/*.star:hover{color:#F7200A;}*/
+div .redColor{
+	color:#F7200A;
+	font-size: 28px;
+	 text-decoration: none;
+}
+div a.c_redColor{color:#F7200A;
+	font-size: 28px;
+	 text-decoration: none;}
